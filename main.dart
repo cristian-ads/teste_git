@@ -6,4 +6,7 @@ main() {
   print(Somar().somar(5, 3));
   print(Subtrair().execute(5, 3));
   print(Somar().teste);
+  print(Somar().teste);
+
+
 }
